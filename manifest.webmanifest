@@ -1,0 +1,19 @@
+{
+  "name": "SPRINT 타이머",
+  "short_name": "SPRINT",
+  "description": "GPS로 50~100m 단거리 달리기 기록을 측정하는 앱",
+  "lang": "ko",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1D4E89",
+  "theme_color": "#1D4E89",
+  "categories": ["sports", "health", "fitness"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
